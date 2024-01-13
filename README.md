@@ -16,8 +16,6 @@ Brief description of your project.
   - [generate_output_json](#generate_output_json)
   - [write_output_to_file](#write_output_to_file)
   - [main](#main)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
