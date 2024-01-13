@@ -60,11 +60,3 @@ Brief instructions on how to get the project up and running.
 ### main
 
 **Description:** The main function that orchestrates the entire process. It loads data, preprocesses it, generates output, and writes it to a file.
-
-## Contributing
-
-If you'd like to contribute to this project, please follow these guidelines...
-
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
